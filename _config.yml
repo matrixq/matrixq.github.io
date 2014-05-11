@@ -1,6 +1,7 @@
-markdown: rdiscount
+markdown: kramdown
 permalink: /:year/:month/:title/
 url: http://matrixq.github.io
 author: Matrixq
 pygments: true
 paginate: 24
+timezone: Asia/Tokyo
