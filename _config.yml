@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://matrixq.github.io
-author: Matriqx
+author: Matrixq
 pygments: true
 paginate: 24
